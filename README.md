@@ -1,5 +1,7 @@
 # Hi 👋, I'm **Abhijeet Saxena**
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+Full-Stack+Engineer;MERN+Stack+%7C+Flask+%7C+Node.js;Building+Real-Time+Web+Applications;Always+Learning+%F0%9F%9A%80)
+
 🚀 **Software Developer | Full-Stack Engineer**
 
 I build scalable, real-time, and user-centric web applications with a strong focus on clean architecture and performance.  
@@ -8,6 +10,8 @@ Currently working on startup-grade products while strengthening my skills in bac
 ---
 
 ## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🔭 Building **full-stack & real-time applications**
 - 👯 Open to collaborating on **React, MERN Stack, Flask, and Node.js**
@@ -33,7 +37,6 @@ Currently working on startup-grade products while strengthening my skills in bac
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
-
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
@@ -52,29 +55,38 @@ Currently working on startup-grade products while strengthening my skills in bac
 ### 🧠 LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/797abhijeet?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/abgt797/)
 
-- Strong focus on **DSA, Algorithms, and Interview Patterns**
-- Consistent practice to improve **problem-solving speed and accuracy**
+---
+
+## 📊 GitHub Stats
+
+![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=797abhijeet&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=797abhijeet&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🐍 Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/797abhijeet/797abhijeet/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🎵 Spotify — Now Playing
 
-[![Spotify Now Playing](https://novatorem.vercel.app/api/spotify?user=t0u6o5n7l30d8lyr84twi6bqu)](https://open.spotify.com/user/t0u6o5n7l30d8lyr84twi6bqu)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=t0u6o5n7l30d8lyr84twi6bqu&cover_image=true&theme=default&show_offline=true)
 
 ---
-
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhijeet--saxena-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhijeet-saxena-b0151b246/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijeet%20Saxena-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhijeet-saxena-b0151b246/)
 [![GitHub](https://img.shields.io/badge/GitHub-797abhijeet-black?style=for-the-badge&logo=github)](https://github.com/797abhijeet)
-[![X](https://img.shields.io/badge/X-@abhijeet__7970-black?style=for-the-badge&logo=x)](https://x.com/abhijeet_7970)
+[![X](https://img.shields.io/badge/X-abhijeet__7970-black?style=for-the-badge&logo=x)](https://x.com/abhijeet_7970)
 [![Instagram](https://img.shields.io/badge/Instagram-abhijeet__797-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/abhijeet_797/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-abgt--portfolio-success?style=for-the-badge&logo=vercel)](https://abgt-portfolio.vercel.app/)
----
-
-
 
 ---
 
 ⭐ *Always learning. Always building.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
