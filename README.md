@@ -33,6 +33,7 @@ Currently working on startup-grade products while strengthening my skills in bac
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
+
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
@@ -49,16 +50,16 @@ Currently working on startup-grade products while strengthening my skills in bac
 ## 🏆 Coding Profiles & Stats
 
 ### 🧠 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/797abhijeet?theme=dark&font=Karma&ext=contest)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/797abhijeet?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/abgt797/)
 
-- Solving problems across **DSA, Algorithms, SQL, and System Design**
-- Focus on **interview patterns** and **problem-solving efficiency**
+- Strong focus on **DSA, Algorithms, and Interview Patterns**
+- Consistent practice to improve **problem-solving speed and accuracy**
 
 ---
 
 ## 🎵 Spotify — Now Playing
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com)
+[![Spotify Now Playing](https://novatorem.vercel.app/api/spotify?user=t0u6o5n7l30d8lyr84twi6bqu)](https://open.spotify.com/user/t0u6o5n7l30d8lyr84twi6bqu)
 
 ---
 
