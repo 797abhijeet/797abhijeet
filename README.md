@@ -73,10 +73,7 @@ Currently working on startup-grade products while strengthening my skills in bac
 [![Portfolio](https://img.shields.io/badge/Portfolio-abgt--portfolio-success?style=for-the-badge&logo=vercel)](https://abgt-portfolio.vercel.app/)
 ---
 
-## 📊 GitHub Stats
 
-![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=797abhijeet&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=797abhijeet&layout=compact&theme=tokyonight)
 
 ---
 
