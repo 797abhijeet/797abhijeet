@@ -63,14 +63,14 @@ Currently working on startup-grade products while strengthening my skills in bac
 
 ---
 
+
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/abhijeet-saxena-b0151b246/
-- 🧑‍💻 **GitHub:** https://github.com/797abhijeet
-- 🐦 **X (Twitter):** https://x.com/abhijeet_7970
-- 📸 **Instagram:** https://www.instagram.com/abhijeet_797/
-- 🌐 **Portfolio:** https://abgt-portfolio.vercel.app/
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhijeet--saxena-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhijeet-saxena-b0151b246/)
+[![GitHub](https://img.shields.io/badge/GitHub-797abhijeet-black?style=for-the-badge&logo=github)](https://github.com/797abhijeet)
+[![X](https://img.shields.io/badge/X-@abhijeet__7970-black?style=for-the-badge&logo=x)](https://x.com/abhijeet_7970)
+[![Instagram](https://img.shields.io/badge/Instagram-abhijeet__797-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/abhijeet_797/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abgt--portfolio-success?style=for-the-badge&logo=vercel)](https://abgt-portfolio.vercel.app/)
 ---
 
 ## 📊 GitHub Stats
