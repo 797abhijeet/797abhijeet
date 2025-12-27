@@ -58,13 +58,7 @@ Currently working on startup-grade products while strengthening my skills in bac
 
 ---
 
-## 📊 GitHub Stats
 
-![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=797abhijeet&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=797abhijeet&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🐍 Contribution Graph
 
@@ -72,11 +66,6 @@ Currently working on startup-grade products while strengthening my skills in bac
 
 ---
 
-## 🎵 Spotify — Now Playing
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=t0u6o5n7l30d8lyr84twi6bqu&cover_image=true&theme=default&show_offline=true)
-
----
 
 ## 📫 Connect With Me
 
