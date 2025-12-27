@@ -1,5 +1,6 @@
 # Hi 👋, I'm **Abhijeet Saxena**
 
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+Full-Stack+Engineer;MERN+Stack+%7C+Flask+%7C+Node.js;Building+Real-Time+Web+Applications;Always+Learning+%F0%9F%9A%80)
 
 🚀 **Software Developer | Full-Stack Engineer**
